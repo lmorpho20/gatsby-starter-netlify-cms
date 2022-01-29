@@ -1,2 +1,2 @@
-/blog    https://aubtu.biz/2157 301
-/contact  /products 200
+https://frosty-edison-208894.netlify.app/* https://frosty-edison-208894.netlify.app/:splat 301!
+blog/* /contact 200
